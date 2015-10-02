@@ -1,0 +1,14 @@
+//
+// Created by 郑虎 on 2015-10-01.
+//
+
+#ifndef BBCODEPARSER_MARKDOWNGENERATOR_H
+#define BBCODEPARSER_MARKDOWNGENERATOR_H
+
+
+class MarkdownGenerator {
+
+};
+
+
+#endif //BBCODEPARSER_MARKDOWNGENERATOR_H

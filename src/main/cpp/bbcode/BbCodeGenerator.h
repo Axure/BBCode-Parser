@@ -1,0 +1,14 @@
+//
+// Created by 郑虎 on 2015-10-01.
+//
+
+#ifndef BBCODEPARSER_BBCODEGENERATOR_H
+#define BBCODEPARSER_BBCODEGENERATOR_H
+
+
+class BbCodeGenerator {
+
+};
+
+
+#endif //BBCODEPARSER_BBCODEGENERATOR_H
