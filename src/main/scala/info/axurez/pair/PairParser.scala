@@ -1,8 +1,10 @@
 package info.axurez.pair;
 
+import info.axurez.basic.RegexpParser
+
 import scala.util.parsing.combinator.syntactical._;
 
-class PairGrammar extends StandardTokenParsers {
+class PairGrammar extends StandardTokenParsers  {
   type Pair = (String, String);
 
   lexical.delimiters ++= List(":", "=")
